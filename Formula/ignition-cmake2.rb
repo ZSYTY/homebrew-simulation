@@ -3,7 +3,7 @@ class IgnitionCmake2 < Formula
   homepage "https://ignitionrobotics.org"
   url "https://osrf-distributions.s3.amazonaws.com/ign-cmake/releases/ignition-cmake2-2.5.0.tar.bz2"
   sha256 "b5ea81835ea398b378edb818083f9dfc08441fadb721e37fc722d7faa9bd63b2"
-  license "Apache-2.0"
+  
   revision 1
 
   bottle do

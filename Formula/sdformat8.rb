@@ -3,7 +3,7 @@ class Sdformat8 < Formula
   homepage "http://sdformat.org"
   url "https://osrf-distributions.s3.amazonaws.com/sdformat/releases/sdformat-8.9.0.tar.bz2"
   sha256 "5198c90c5424df5b3b27567498cf63d4c7ec4db1564831a57c674a4804a683dd"
-  license "Apache-2.0"
+  
   revision 1
 
   bottle do

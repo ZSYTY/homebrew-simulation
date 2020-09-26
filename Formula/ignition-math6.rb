@@ -3,7 +3,7 @@ class IgnitionMath6 < Formula
   homepage "https://ignitionrobotics.org"
   url "https://osrf-distributions.s3.amazonaws.com/ign-math/releases/ignition-math6-6.6.0.tar.bz2"
   sha256 "1acd2c6ee663f67da7dd0a3f3db554e847b8cf8df3f1a253045331416e7a6d14"
-  license "Apache-2.0"
+  
 
   bottle do
     root_url "https://osrf-distributions.s3.amazonaws.com/bottles-simulation"

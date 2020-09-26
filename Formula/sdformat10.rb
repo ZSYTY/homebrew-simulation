@@ -4,7 +4,7 @@ class Sdformat10 < Formula
   url "https://osrf-distributions.s3.amazonaws.com/sdformat/releases/sdformat-10.0.0~pre3.tar.bz2"
   version "10.0.0~pre3"
   sha256 "146cecd5ce42bb2b8faf7673f6e187d4d0df58a3313e0df2dfd3888a99a89ce0"
-  license "Apache-2.0"
+  
   revision 1
 
   bottle do
