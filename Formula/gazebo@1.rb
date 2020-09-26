@@ -8,8 +8,6 @@ class GazeboAT1 < Formula
 
   keg_only "old version of gazebo"
 
-  deprecate! because: "is past end-of-life date", date: "2015-07-27"
-
   depends_on "cmake" => :build
   depends_on "pkg-config" => :build
 
